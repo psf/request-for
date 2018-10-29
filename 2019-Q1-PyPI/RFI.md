@@ -73,12 +73,16 @@ This Request for Information is seeking Backend Developers to implement, test, v
 
 Multi-Factor Auth (MFA):
 
+[Relevant background and context](https://github.com/pypa/warehouse/issues/996)
+
 * Implement TOTP
 * Implement U2F/FIDO
 * Adding/Removing MFA user flow
 * Add support for login w/ MFA user flow API Keys
 
 API Keys:
+
+[Relevant background and context](https://github.com/pypa/warehouse/issues/994)
 
 * Implement per-User API Keys
 * Adding/removing User API keys flow
@@ -98,7 +102,7 @@ Audit Trail:
 
 #### Summary
 
-Accessibility audit and follow-on accessibility repair work, implementing localization and internationalization features and recruiting translators and integrating translations into PyPI.
+Accessibility audit and follow-on accessibility repair work, implementing localization and internationalization features for views, creating tooling to support translators, and integrating translations into PyPI.
 
 #### Specific Tasks
 
@@ -106,12 +110,16 @@ Accessibility:
 
 * Implement backend features required to support making the codebase [WCAG 2.0 AA](https://www.w3.org/WAI/intro/wcag) compliant.
 
+[Relevant background and context](https://github.com/pypa/warehouse/labels/accessibility)
+
 Localization:
 
 * Implement localization and internationalization features
 * Choosing a localization framework compatible with [Pyramid](https://trypyramid.com/) and integrating it into our application
 * Replacing hardcoded English messages with localized messages in browser and email templates
 * Implementing integration with [Transifex](https://www.transifex.com/) or another localization platform
+
+[Relevant background and context](https://github.com/pypa/warehouse/issues/1453)
 
 ## Estimated Budgets and Caps
 
