@@ -2,7 +2,9 @@
 
 The Python Software Foundation Packaging Working Group has applied for and received a commitment from the Open Technology Fund to fulfill a contract for their Core Infrastructure Fund.
 
-We plan to begin the project in January 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and deployment of necessary features.
+PyPI is a foundational component of the Python ecosystem and broader computer software and technology landscape. This project aims to improve the security and accessibility of PyPI for all users worldwide, whether they are direct users like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers or indirect users. The impact of this work will be highly visible and improve crucial features of the service.
+
+We plan to begin the project in January 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and assist in the rollout of necessary features.
 
 ## Timeline
 
@@ -10,11 +12,15 @@ We plan to begin the project in January 2019. Because of the size of the project
 |---|---|
 |2018-10-30|Request for Information period opens.|
 |2018-11-13|Request for Information period closes.|
-|2018-11-14|Request for Proposal period opens.|
-|2018-11-23|Request for Proposal period closes.|
-|2018-12-07|By this date proposals will have recieved a decision.|
-|2019-12-21|Contracts for accepted proposals should be finalized.|
+|2018-11|Request for Proposal period opens. (1-2 weeks after RFI close)|
+|2018-11|Request for Proposal period closes. (10 days after RFP open)|
+|2018-12|Date proposals will have recieved a decision. (1-2 weeks after RFP close)|
+|2019-12-31|Contracts for accepted proposals should be finalized.|
 |2019-01|Contract work commences.|
+
+### Register Interest
+
+To receive notification when our Request for Information period closes and the Request for Proposals period opens, please [register your interest here](https://goo.gl/forms/Jx5aXUhwSgzqjGtl2).
 
 ## What is the Request for Information period?
 
@@ -22,7 +28,7 @@ A Request for Information (RFI) is a process intended to allow us (The Python So
 
 We hope that it will help potential contractors better understand the work to be completed and develop better specified proposals. Additionally we hope that the open nature of our RFI will expose the project to multiple perspectives and potentially help shape the direction for some choices in the project.
 
-*Note*: This Request For Information document may be updated to reflect things that we learn during the process. The canonical version and history is available [here](https://github.com/python/request-for).
+**Note**: This Request For Information document may be updated to reflect things that we learn during the process. The canonical version and history is available [here](https://github.com/python/request-for).
 
 ## How do I participate?
 
@@ -51,7 +57,7 @@ Moderators of the RFI may merge, edit, or discard topics or responses in some ci
 
 ## Scope
 
-This Request for Information is seeking Backend Developers to implement, test, verify, and deploy the following features to the codebase that powers [PyPI](https://pypi.org/).
+This Request for Information is seeking Backend Developers to implement, test, verify, and assist in the rollout of the following features to the codebase that powers [PyPI](https://pypi.org/).
 
 ### Milestone 1 - Security development
 
@@ -129,6 +135,10 @@ Estimates and Caps in United States Dollars.
 |Localization|$10,000|$12,000|
 
 ## Expectations and Requirements
+
+### Timeline
+
+This project is intended to be completed over a three month period beginning January 2019.
 
 ### Technology
 
