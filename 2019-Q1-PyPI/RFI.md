@@ -144,7 +144,10 @@ This project is intended to be completed over a three month period beginning Jan
 
 The codebase behind PyPI is called [Warehouse](https://github.com/pypa/warehouse) and is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), all work submitted or dependencies added must be compliant with this license.
 
-The backend codebase is in Python with a CSS, HTML, and Javascript frontend (using the [Stimulus](https://stimulusjs.org/) framework). Potential proposers should be comfortable with Python and may need to implement some features or views for the frontend, but will have support of an additional contractor focused on User interface and User experience to take care of CSS and HTML. Javascript features may be required but resources are available to assist with this as well.
+The backend codebase is in Python with a CSS, HTML, and Javascript frontend (using the [Stimulus](https://stimulusjs.org/) framework).
+
+Potential proposers should be comfortable with Python and may need to implement some features or views for the frontend, but will have support of an additional contractor focused on User Interface and User Experience to implement CSS and HTML changes. Javascript features may be required but resources are available to assist with this as well.
+
 Familiarity and expertise with all technologies is not required. Strong Python skills and experience are a must though.
 
 #### Specific Technologies Used
