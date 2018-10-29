@@ -28,6 +28,8 @@ A Request for Information (RFI) is a process intended to allow us (The Python So
 
 We hope that it will help potential contractors better understand the work to be completed and develop better specified proposals. Additionally we hope that the open nature of our RFI will expose the project to multiple perspectives and potentially help shape the direction for some choices in the project.
 
+After the RFI period closes, we will use the results of the process to prepare and open a Request for Proposals to solicit proposals from contractors to complete the work.
+
 **Note**: This Request For Information document may be updated to reflect things that we learn during the process. The canonical version and history is available [here](https://github.com/python/request-for/blob/master/2019-Q1-PyPI/RFI.md).
 
 ## How do I participate?
