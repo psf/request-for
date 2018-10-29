@@ -34,7 +34,7 @@ We hope that it will help potential contractors better understand the work to be
 
 ### Code of Conduct
 
-This process requires that participants understand and adhere to the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
+This process requires that participants understand and adhere to the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/) and [Python Packaging Authority Code of Conduct](https://www.pypa.io/en/latest/code-of-conduct/).
 
 ### Venue
 
@@ -69,24 +69,27 @@ This Request for Information is seeking Backend Developers to implement, test, v
 
 #### Specific Tasks
 
-Multi-Factor Auth:
+Multi-Factor Auth (MFA):
 
 * Implement TOTP
 * Implement U2F/FIDO
-* Adding/Removing 2FA user flow
-* Login w/ 2FA user flow API Keys
+* Adding/Removing MFA user flow
+* Add support for login w/ MFA user flow API Keys
 
 API Keys:
 
-* Implement per-user API Keys
+* Implement per-User API Keys
 * Adding/removing User API keys flow
-* Per-project API Keys
+* Implement per-Project API Keys
 * Adding/removing Project API keys flow 
 
 Audit Trail:
 
-* Adding audits for user actions
-* Admin view for auditing
+* Adding audits for User actions
+* Adding audits for Project actions
+* Implement User view for User auditing
+* Implement Project view for Project maintainer auditing
+* Implement Admin view for administrator auditing
 
 
 ### Milestone 2 - Accessibility and internationalization development
@@ -99,19 +102,19 @@ Accessibility audit and follow-on accessibility repair work, implementing locali
 
 Accessibility:
 
-* Any backend features required to support making the codebase [WCAG 2.0 AA](https://www.w3.org/WAI/intro/wcag) compliant.
+* Implment backend features required to support making the codebase [WCAG 2.0 AA](https://www.w3.org/WAI/intro/wcag) compliant.
 
 Localization:
 
-* Implementing localization and internationalization features
+* Implement localization and internationalization features
 * Choosing a localization framework compatible with [Pyramid](https://trypyramid.com/) and integrating it into our application
 * Replacing hardcoded English messages with localized messages in browser and email templates
-* Configuring integration with [Transifex](https://www.transifex.com/) or another localization platform
+* Implementing integration with [Transifex](https://www.transifex.com/) or another localization platform
 
 ## Estimated Budgets and Caps
 
 Budgets and Caps are provided to help contractors in preparing their proposals. 
-Budgets are estimates created during the formation of our proposal to Open Technology Fund and Caps are based on the commitment that we have received.
+Budgets are estimates created during the formation of our proposal to Open Technology Fund and Caps are based on the funding commitment that we have received.
 
 Caps are provided so that it is understood that some features may require more funds than our estimated Budget. Proposals may go over Budget up to the Cap for one feature but fall under Budget for another.
 
@@ -138,7 +141,7 @@ Estimates and Caps in United States Dollars.
 
 ### Timeline
 
-This project is intended to be completed over a three month period beginning January 2019.
+This project is intended to be completed over a three to five month period beginning January 2019.
 
 ### Technology
 
