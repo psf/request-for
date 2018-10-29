@@ -102,7 +102,7 @@ Accessibility audit and follow-on accessibility repair work, implementing locali
 
 Accessibility:
 
-* Implment backend features required to support making the codebase [WCAG 2.0 AA](https://www.w3.org/WAI/intro/wcag) compliant.
+* Implement backend features required to support making the codebase [WCAG 2.0 AA](https://www.w3.org/WAI/intro/wcag) compliant.
 
 Localization:
 
