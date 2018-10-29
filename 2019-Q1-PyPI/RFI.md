@@ -1,8 +1,8 @@
 # PyPI Quarter 1 2019 Request for Information
 
-The Python Software Foundation Packaging Working Group has applied for and received a commitment from the Open Technology Fund to fulfill a contract for their Core Infrastructure Fund.
+The [Python Software Foundation](https://python.org/psf-landing) [Packaging Working Group](https://www.python.org/psf/committees/#packaging-work-group) has applied for and received a commitment from the [Open Technology Fund](https://www.opentech.fund) to fulfill a contract for their [Core Infrastructure Fund](https://www.opentech.fund/funds/core-infrastructure-fund/).
 
-PyPI is a foundational component of the Python ecosystem and broader computer software and technology landscape. This project aims to improve the security and accessibility of PyPI for all users worldwide, whether they are direct users like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers or indirect users. The impact of this work will be highly visible and improve crucial features of the service.
+[PyPI](https://pypi.org) is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape. This project aims to improve the security and accessibility of PyPI for all users worldwide, whether they are direct users like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers or indirect users. The impact of this work will be highly visible and improve crucial features of the service.
 
 We plan to begin the project in January 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and assist in the rollout of necessary features.
 
@@ -28,7 +28,7 @@ A Request for Information (RFI) is a process intended to allow us (The Python So
 
 We hope that it will help potential contractors better understand the work to be completed and develop better specified proposals. Additionally we hope that the open nature of our RFI will expose the project to multiple perspectives and potentially help shape the direction for some choices in the project.
 
-**Note**: This Request For Information document may be updated to reflect things that we learn during the process. The canonical version and history is available [here](https://github.com/python/request-for).
+**Note**: This Request For Information document may be updated to reflect things that we learn during the process. The canonical version and history is available [here](https://github.com/python/request-for/blob/master/2019-Q1-PyPI/RFI.md).
 
 ## How do I participate?
 
