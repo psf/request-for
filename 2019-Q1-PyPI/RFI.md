@@ -65,7 +65,7 @@ This Request for Information is seeking Backend Developers to implement, test, v
 
 #### Summary
 
-* Support for two-factor authentication via [TOTP](https://tools.ietf.org/html/rfc6238) and [U2F/FIDO](https://fidoalliance.org/specifications/overview/).
+* Support for two-factor authentication via [TOTP](https://tools.ietf.org/html/rfc6238) and [WebAuthn/U2F/FIDO](https://fidoalliance.org/specifications/overview/).
 * Application specific tokens scoped to individual users/projects (this will also cover adding token based login support to twine and setuptools)
 * Advanced audit trail of user actions beyond the current journal (allowing publishers to track all actions taken by third party services on their behalf).
 
@@ -76,7 +76,7 @@ Multi-Factor Auth (MFA):
 [Relevant background and context](https://github.com/pypa/warehouse/issues/996)
 
 * Implement TOTP
-* Implement U2F/FIDO
+* Implement WebAuthn/U2F/FIDO
 * Adding/Removing MFA user flow
 * Add support for login w/ MFA user flow API Keys
 
