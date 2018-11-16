@@ -57,7 +57,7 @@ A submission must, at a minimum, include the following elements:
   - Milestone 2 - Accessibility and internationalization - Accessibility
   - Milestone 2 - Accessibility and internationalization - Internationalization
 
-- Project budget by milestone and task. Deviations from our [Estimated budgets and caps](#estimated-budgets-and-caps) should be described and supported.
+- Project budget by milestone and task. Deviations from our [estimated budgets and caps](#estimated-budgets-and-caps) should be described and supported.
   - Milestone 1 - Security - MFA
   - Milestone 1 - Security - API Keys
   - Milestone 1 - Security - Audit Trail
