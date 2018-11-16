@@ -1,8 +1,8 @@
 # PyPI Quarter 1 2019 Request for Proposals
 
-The [Python Software Foundation](https://python.org/psf-landing) [Packaging Working Group](https://www.python.org/psf/committees/#packaging-work-group) has applied for and received a commitment from the [Open Technology Fund](https://www.opentech.fund) to fulfill a contract for their [Core Infrastructure Fund](https://www.opentech.fund/funds/core-infrastructure-fund/).
+The [Python Software Foundation](https://python.org/psf-landing) [Packaging Working Group](https://www.python.org/psf/committees/#packaging-work-group) has applied for and received a commitment from the [Open Technology Fund](https://www.opentech.fund) to fulfill a contract via their [Core Infrastructure Fund](https://www.opentech.fund/funds/core-infrastructure-fund/).
 
-[PyPI](https://pypi.org) is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape. This project aims to improve the security and accessibility of PyPI for all users worldwide, whether they are direct users like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers or indirect users. The impact of this work will be highly visible and improve crucial features of the service.
+The [Python Package Index (PyPI)](https://pypi.org) is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape. This project aims to improve the security and accessibility of PyPI for all users worldwide, whether they are direct users, like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers, or indirect users. The impact of this work will be highly visible and improve crucial features of the service.
 
 We plan to begin the project in January 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and assist in the rollout of necessary features.
 
@@ -93,7 +93,7 @@ A submission must, at a minimum, include the following elements:
 
 ## Scope
 
-This Request for Proposals is seeking Backend Developers to implement, test, verify, and assist in the rollout of the following features to the codebase that powers [PyPI](https://pypi.org/).
+This Request for Proposals is seeking **backend developers** to implement, test, verify, and assist in the rollout of the following features to the codebase that powers [PyPI](https://pypi.org/).
 
 ### Milestone 1 - Security development
 
