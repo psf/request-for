@@ -12,11 +12,10 @@ We plan to begin the project in January 2019. Because of the size of the project
 |---|---|
 |2018-10-30|Request for Information period opened.|
 |2018-11-13|Request for Information period closed.|
-|2018-11-??|Request for Proposal period opens.|
-|2018-11-30|Request for Proposal period closes.|
-|2018-12-7|Date proposals will have received a decision.|
-|2019-12-31|Contracts for accepted proposals should be finalized.|
-|2019-01|Contract work commences.|
+|2018-11-19|Request for Proposal period opens.|
+|2018-12-14|Request for Proposal period closes.|
+|2018-12-21|Date proposals will have received a decision.|
+|2019-Q1|Contract work commences.|
 
 ## What is the Request for Proposals period?
 
@@ -30,7 +29,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ernest@python.org](mailto:ernest@python.org).
 
-Proposals must be submitted before **December 1, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2018-12-01T12:00+00:00:00).
+Proposals must be submitted before **December 15, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2018-12-15T12:00+00:00:00).
 
 ### Elements of proposal
 
@@ -72,7 +71,7 @@ A submission must, at a minimum, include the following elements:
  - Proposal is detailed enough to properly assess further criteria.
  - Formatting and Submission requirements:
    - Portable Document Format (PDF)
-   - Emailed to [ernest@python.org](mailto:ernest@python.org) by **December 1, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)**
+   - Emailed to [ernest@python.org](mailto:ernest@python.org) by **December 15, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)**
 
 ### Experience and competency
 
