@@ -223,3 +223,7 @@ This project will be led and managed by the Python Software Foundation Director 
 Regular meetings will be held to coordinate efforts between the project managers, backend developers, and frontend developers.
 
 Status reporting during these meetings as well as regular summaries will be required. Additionally, participation on the [public issue tracker](https://github.com/pypa/warehouse/issues) and submission of changes via [code review](https://github.com/pypa/warehouse/pulls) for the project will be required.
+
+## Questions, Concerns, or Feedback
+
+Please contact [Ernest W. Durbin III \<ernest@python.org\>](mailto:ernest@python.org), Director of Infrastructure at the Python Software Foundation.
