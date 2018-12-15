@@ -29,7 +29,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ernest@python.org](mailto:ernest@python.org).
 
-Proposals must be submitted before **December 15, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2018-12-15T12:00+00:00:00).
+Proposals must be submitted before **December 15, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2018-12-16T12:00+00:00:00).
 
 ### Elements of proposal
 
