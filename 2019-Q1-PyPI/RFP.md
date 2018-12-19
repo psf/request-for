@@ -4,7 +4,7 @@ The [Python Software Foundation](https://python.org/psf-landing) [Packaging Work
 
 The [Python Package Index (PyPI)](https://pypi.org) is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape. This project aims to improve the security and accessibility of PyPI for all users worldwide, whether they are direct users, like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers, or indirect users. The impact of this work will be highly visible and improve crucial features of the service.
 
-We plan to begin the project in January 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and assist in the rollout of necessary features.
+We plan to begin the project in the first quarter of 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and assist in the rollout of necessary features.
 
 ## Timeline
 
@@ -12,9 +12,11 @@ We plan to begin the project in January 2019. Because of the size of the project
 |---|---|
 |2018-10-30|Request for Information period opened.|
 |2018-11-13|Request for Information period closed.|
-|2018-11-19|Request for Proposal period opens.|
-|2018-12-14|Request for Proposal period closes.|
-|2018-12-21|Date proposals will have received a decision.|
+|2018-11-19|Initial Request for Proposal period opened.|
+|2018-12-14|Initial Request for Proposal period closed.|
+|2018-12-19|Extended Request for Proposal period opens.|
+|2019-01-31|Extended Request for Proposal period closes.|
+|2019-02-08|Date proposals will have received a decision.|
 |2019-Q1|Contract work commences.|
 
 ## What is the Request for Proposals period?
@@ -29,7 +31,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ernest@python.org](mailto:ernest@python.org).
 
-Proposals must be submitted before **December 15, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2018-12-16T12:00+00:00:00).
+Proposals must be submitted before the end of the day **January 31, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-02-01T12:00:00Z).
 
 ### Elements of proposal
 
