@@ -51,7 +51,7 @@ A submission must, at a minimum, include the following elements:
 - Examples of similarly-complex projects completed previously.
   - Referencing contributions to Free/Open Source projects is encouraged.
 
-- Project timeline estimates by milestone and task. These timelines should fit within our [project timeline](#project-timeline).
+- Project timeline estimates by milestone and task. These timelines should fit within our [project timeline](#project-timeline), however proposers may suggest adjustments based on their availability.
   - Milestone 1 - Security - MFA
   - Milestone 1 - Security - API Keys
   - Milestone 1 - Security - Audit Trail
@@ -90,7 +90,7 @@ A submission must, at a minimum, include the following elements:
 ### Process and timeline
 
 - Do the proposers agree to the [project management and reporting](#project-management-and-reporting) requirements?
-- Are the project timeline estimates within our [project timeline](#project-timeline)?
+- Are the project timeline estimates within our [project timeline](#project-timeline)? Are deviations from our timeline explained and supported?
 
 ## Scope
 
@@ -184,7 +184,7 @@ Budgets and caps are presented in United States Dollars.
 
 ### Project timeline
 
-This project is intended to be completed over a three to five month period beginning January 2019.
+The target timeline for this project is a three to five month period beginning in quarter 1 of 2019. Proposals with a shorter or longer timeline are acceptable if it is explained, and supported by estimated budget and costs.
 
 ### Technology
 
