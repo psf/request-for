@@ -73,7 +73,7 @@ A submission must, at a minimum, include the following elements:
  - Proposal is detailed enough to properly assess further criteria.
  - Formatting and Submission requirements:
    - Portable Document Format (PDF)
-   - Emailed to [ernest@python.org](mailto:ernest@python.org) by **December 15, 2018 [AoE](https://www.timeanddate.com/time/zones/aoe)**
+   - Emailed to [ernest@python.org](mailto:ernest@python.org) by **January 31, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-02-01T12:00:00Z)
 
 ### Experience and competency
 
@@ -113,16 +113,16 @@ Multi-Factor Auth (MFA):
 * Implement TOTP
 * Implement U2F/FIDO
 * Adding/Removing MFA user flow
-* Add support for login w/ MFA user flow API Keys
+* Add support for login w/ MFA user flow
 
 API Keys:
 
 [Relevant background and context](https://github.com/pypa/warehouse/issues/994)
 
 * Implement per-User API Keys
-* Adding/removing User API keys flow
+* Adding/removing User API Keys flow
 * Implement per-Project API Keys
-* Adding/removing Project API keys flow
+* Adding/removing Project API Keys flow
 
 Audit Trail:
 
