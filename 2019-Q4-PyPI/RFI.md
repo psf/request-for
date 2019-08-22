@@ -12,13 +12,13 @@ Please read this RFI and respond to let us know if you have questions, or may be
 
 |Date|Milestone|
 |---|---|
-|TBD|Request for Information period opens.|
-|TBD|Request for Information period closes.|
-|TBD|Request for Proposal period opens. (? weeks after RFI close)|
-|TBD|Request for Proposal period closes. (? days after RFP open)|
-|TBD|Date proposals will have recieved a decision. (? weeks after RFP close)|
-|TBD|Contracts for accepted proposals should be finalized.|
-|TBD|Contract work commences.|
+|August 23|Request for Information period opens.|
+|September 6|Request for Information period closes.|
+|September 16|Request for Proposal period opens. (10 days after RFI close)|
+|October 8|Request for Proposal period closes. (3 weeks after RFP open)|
+|October 22|Date proposals will have received a decision. (2 weeks after RFP close)|
+|November 31|Contracts for accepted proposals should be finalized.|
+|December 1|Contract work commences.|
 
 ### Register Interest
 
