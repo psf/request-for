@@ -110,7 +110,7 @@ A previous grant from the Open Technology Fund allowed the PSF to fund [work imp
 
 **Budgets and caps** are provided to help contractors in preparing their proposals.
 
-Budgets are estimates the PSF created while writing our proposal to Facebook, and caps are based on the funding commitment that we have received.
+Budgets are PSF's estimates, and caps are based on the funding commitment that we have received.
 
 Caps are provided to indicate that we understand that some features may require more funds than our estimated budget. Proposals may go over budget up to the cap for one feature, but fall under budget for another.
 
@@ -118,8 +118,15 @@ These values may change as a result of our RFI process.
 
 Estimates and caps in United States dollars.
 
-**These estimates are To Be Determined as a result of the RFI**
+|Task|TBD Budget|TBD Cap|
+|---|---|---|
+|Verifiable cryptographic signing of artifacts|$15,750|$18,500|
+|Automated detection of malicious uploads|$15,750|$18,500|
+|Continuations of API token and multi-factor authentication work|$7,800|$9800|
+|Documentation for above features|$2700|$5,200|
+|Total|not applicable|$52,000|
 
+**These estimates are To Be Determined as a result of the RFI**
 
 ## Expectations and Requirements
 
