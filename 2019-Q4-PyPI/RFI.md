@@ -102,6 +102,10 @@ Key discussion points are:
 - Methods for detection of malicious content
 - Implementation feasibilty for PyPI and associated scalability
 
+#### Continuations of API Token and Multi-Factor Authentication Work
+
+A previous grant from the Open Technology Fund allowed the PSF to fund [work implementing multi-factor authentication and scoped upload API tokens on PyPI](https://github.com/pypa/warehouse/milestone/13). During the cryptographic signing and malicious upload detection work, we may discover requirements for further improvements in PyPI's MFA or API tokens.
+
 ## Estimated Budgets and Caps
 
 **Budgets and caps** are provided to help contractors in preparing their proposals.
