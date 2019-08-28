@@ -4,9 +4,9 @@ The [Python Software Foundation](https://python.org/psf-landing) [Packaging Work
 
 [PyPI](https://pypi.org) is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape. This project aims to improve the security of PyPI for all users worldwide, whether they are direct users like project maintainers and [`pip install`](https://pip.pypa.io/en/stable/)ers or indirect users. The impact of this work will be to implement long-desired security features for the service (see below).
 
-We plan to begin the project in Quarter 4 of 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, verification, and assist in the rollout of necessary features.
+We plan to begin the project in Quarter 4 of 2019. Because of the size of the project, funding has been allocated to secure one or more contractors to complete the development, testing, and verification, and assist in the rollout of necessary features.
 
-Please read this RFI and respond to let us know if you have questions, or may be interested in applying to work on the project.
+Please read this RFI and respond to let us know if you have questions, or suggestions for our key discussion points, or may be interested in applying to work on the project.
 
 ## Timeline
 
@@ -44,7 +44,7 @@ This process requires that participants understand and adhere to the [Python Com
 
 ### Venue
 
-We will conduct our RFI on the [Python Community Discussion Forum](https://discuss.python.org/c/python-software-foundation/) **Category TBD**.
+We will conduct our RFI on the [Python Community discussion forum](https://discuss.python.org/c/python-software-foundation/) **thread TBD**.
 
 Participants will need to create an account in order to propose new topics of discussion or respond to existing topics.
 
@@ -81,10 +81,11 @@ We are hoping that this RFI will allow the community, experts, and potential con
 
 Key discussion points are:
 
-- Acceptance criteria for the community
-- Implementation feasibility for PyPI
-- Future maintainability and support requirements from PyPI administrators
-- Security and operational efficacy of proposed solutions
+- What should community acceptance criteria be?
+- How feasible is it to implement this on PyPI?
+- What features do PyPI administrators need to make use of this feature in the future?
+- What work would the developer need to do to make this feature more maintainable by future Warehouse maintainers?
+- These PEPs offer different levels of security; which (if either) should we implement? Which one has more appropriate operational efficacy? Should we use TUF or another approach?
 
 #### Automated Detection of Malicious Uploads
 
@@ -98,9 +99,9 @@ We are hoping that this RFI will allow the community, experts, and potential con
 
 Key discussion points are:
 
-- Acceptance criteria for the PyPI maintainers and moderators
-- Methods for detection of malicious content
-- Implementation feasibilty for PyPI and associated scalability
+- What should acceptance criteria be, for Warehouse maintainers and PyPI moderators?
+- How feasible is it to implement this on PyPI? How will it scale?
+- What methods should we implement to detect malicious content?
 
 ## Estimated Budgets and Caps
 
