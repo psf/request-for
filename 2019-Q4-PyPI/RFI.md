@@ -12,13 +12,13 @@ Please read this RFI and respond to let us know if you have questions, or may be
 
 |Date|Milestone|
 |---|---|
-|August 23|Request for Information period opens.|
-|September 6|Request for Information period closes.|
-|September 16|Request for Proposal period opens. (10 days after RFI close)|
-|October 8|Request for Proposal period closes. (3 weeks after RFP open)|
-|October 22|Date proposals will have received a decision. (2 weeks after RFP close)|
-|November 31|Contracts for accepted proposals should be finalized.|
-|December 1|Contract work commences.|
+|August 28|Request for Information period opens.|
+|September 18|Request for Information period closes.|
+|September 23|Request for Proposal period opens.|
+|October 16|Request for Proposal period closes.|
+|October 29|Date proposals will have received a decision.|
+|November 30|Contracts for accepted proposals should be finalized.|
+|December 2|Contract work commences.|
 
 ### Register Interest
 
@@ -132,7 +132,7 @@ Estimates and caps in United States dollars.
 
 ### Timeline
 
-This project is intended to be completed over a three to five month period beginning November 2019.
+This project is intended to be completed over a three to five month period beginning December 2019.
 
 ### Technology
 
