@@ -68,7 +68,7 @@ This Request for Information is seeking **software developers** to design, imple
 
 - Verifiable cryptographic signing of artifacts ([PEP 458](https://www.python.org/dev/peps/pep-0458/)/[TUF](https://theupdateframework.github.io) or simiilar)
 - Technical infrastructure and methods for automated detection of malicious package uploads
-- Continuation of high priority improvements to previous security work on API Tokens and Multi-Factor authentication
+- Continuation of high priority improvements to previous security work on API Tokens and Multi-Factor authentication as budget allows
 - Documentation for above features
 
 ### Open Questions
@@ -120,11 +120,10 @@ Estimates and caps in United States dollars.
 
 |Task|TBD Budget|TBD Cap|
 |---|---|---|
-|Verifiable cryptographic signing of artifacts|$15,750|$18,500|
-|Automated detection of malicious uploads|$15,750|$18,500|
-|Continuations of API token and multi-factor authentication work|$7,800|$9800|
-|Documentation for above features|$2700|$5,200|
-|Total|not applicable|$52,000|
+|Verifiable cryptographic signing of artifacts (approximately 4-5 weeks)|$25,000|$30,000|
+|Automated detection of malicious uploads (approximately 3-4 weeks)|$20,000|$24,500|
+|Documentation for above features|$3,000|$5,500|
+|Total|not applicable|$65,000|
 
 **These estimates are To Be Determined as a result of the RFI**
 
