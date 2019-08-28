@@ -44,7 +44,7 @@ This process requires that participants understand and adhere to the [Python Com
 
 ### Venue
 
-We will conduct our RFI on the [Python Community discussion forum](https://discuss.python.org/c/python-software-foundation/) **thread TBD**.
+We will conduct our RFI on the [Python Community discussion forum](https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi).
 
 Participants will need to create an account in order to propose new topics of discussion or respond to existing topics.
 
