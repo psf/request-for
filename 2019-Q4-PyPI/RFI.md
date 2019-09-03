@@ -66,7 +66,7 @@ Moderators of the RFI may merge, edit, or discard topics or responses in some ci
 
 This Request for Information is seeking **software developers** to design, implement, test, verify, and assist in the rollout of the following features to the codebase that powers [PyPI](https://pypi.org/).
 
-- Verifiable cryptographic signing of artifacts ([PEP 458](https://www.python.org/dev/peps/pep-0458/)/[TUF](https://theupdateframework.github.io) or simiilar)
+- Verifiable cryptographic signing of artifacts ([PEP 458](https://www.python.org/dev/peps/pep-0458/)/[TUF](https://theupdateframework.github.io) or similar)
 - Technical infrastructure and methods for automated detection of malicious package uploads
 - Continuation of high priority improvements to previous security work on API Tokens and Multi-Factor authentication as budget allows
 - Documentation for above features
