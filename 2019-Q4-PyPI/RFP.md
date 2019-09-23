@@ -61,6 +61,8 @@ A submission must, at a minimum, include the following elements:
   - Milestone 1 - Verifiable cryptographic signing of artifacts
   - Milestone 2 - Systems for Automated Detection of Malicious Uploads
 
+In total, we expect your proposal to be 5-10 pages long, but feel free to go under 5 or over 10 pages if you feel it is appropriate.
+
 ## Evaluation criteria
 
 ### Potential pass/fail:
