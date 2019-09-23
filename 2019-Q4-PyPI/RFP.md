@@ -112,6 +112,8 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 * Documentation for Administrators of PyPI for handling key material and interacting with the systems
 * Documentation for PyPI client libraries for sourcing and validating [TUF](https://theupdateframework.github.io/) metadata
 
+**Note**: Implementation of support for TUF signing or verification in the Python packaging toolchain (e.g. setuptools, pip, twine, etc) is not in scope.
+
 ### Milestone 2 - Systems for Automated Detection of Malicious Uploads
 
 #### Summary
@@ -128,6 +130,8 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 * Implement database models to store check results relating to Projects, Releases, and Release Files from checks
 * Implement Administrator views for reviewing results
 * Documentation process for the development and submission of new checks
+
+**Note**: Surfacing malware detection results to PyPI publishers and users via the Web User Interface or any API is not in scope.
 
 ## Estimated Budgets and Caps
 
