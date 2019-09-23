@@ -31,7 +31,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 ## How do I submit a proposal?
 
-Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ernest@python.org](mailto:ernest@python.org).
+Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org).
 
 Proposals must be submitted before the end of the day **October 16, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-10-16T12:00:00Z).
 
@@ -69,7 +69,7 @@ A submission must, at a minimum, include the following elements:
  - Proposal is detailed enough to properly assess further criteria.
  - Formatting and Submission requirements:
    - Portable Document Format (PDF)
-   - Emailed to [ernest@python.org](mailto:ernest@python.org) by **October 16, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-10-16T12:00:00Z)
+   - Emailed to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org) by **October 16, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-10-16T12:00:00Z)
 
 ### Experience and competency
 
@@ -194,4 +194,4 @@ Oral or textual status reporting during these meetings, as well as regular textu
 
 ## Questions, Concerns, or Feedback
 
-Please contact [Ernest W. Durbin III \<ernest@python.org\>](mailto:ernest@python.org), Director of Infrastructure at the Python Software Foundation.
+Please contact [Ernest W. Durbin III \<ewdurbin@pyfound.org\>](mailto:ewdurbin@pyfound.org), Director of Infrastructure at the Python Software Foundation.
