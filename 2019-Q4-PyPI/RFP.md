@@ -99,8 +99,8 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 #### Summary
 
 * Implementation of [PEP 458 once accepted](https://www.python.org/dev/peps/pep-0458/) to add integration of [The Update Framework](https://theupdateframework.github.io/) to PyPI
-* Development of either a stand alone service or code in the [warehouse codebase](https://github.com/pypa/warehouse) to create, sign, serve, and handle caching concerns for TUF metadata
-* Development of necessary code in the [warehouse codebase] to integrate TUF metadata and signing
+* Development of either a stand alone service or code in the [Warehouse codebase](https://github.com/pypa/warehouse) to create, sign, serve, and handle caching concerns for TUF metadata
+* Development of necessary code in the [Warehouse codebase] to integrate TUF](https://theupdateframework.github.io/) metadata and signing
 
 [Relevant background and context](https://github.com/pypa/warehouse/issues/5247)
 
@@ -118,8 +118,8 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 
 #### Summary
 
-* Development of infrastructure as either a standalone service or code in the [warehouse codebase](https://github.com/pypa/warehouse) to automatically screen metadata and uploads to PyPI for malicious content via pluggable checks, reporting results to PyPI
-* Development of necessary code in the [warehouse codebase](https://github.com/pypa/warehouse) to store results of automated screening for administrator review
+* Development of infrastructure as either a standalone service or code in the [Warehouse codebase](https://github.com/pypa/warehouse) to automatically screen metadata and uploads to PyPI for malicious content via pluggable checks, reporting results to PyPI
+* Development of necessary code in the [Warehouse codebase](https://github.com/pypa/warehouse) to store results of automated screening for administrator review
 
 [Relevant background and context](https://github.com/pypa/warehouse/issues/5117)
 
