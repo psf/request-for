@@ -33,7 +33,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org).
 
-Proposals must be submitted before the end of the day **October 16, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-10-16T12:00:00Z).
+Proposals must be submitted before the end of the day **October 21, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-10-21T12:00:00Z).
 
 ### Elements of proposal
 
