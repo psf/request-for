@@ -23,7 +23,7 @@ Please read this RFP and respond to let us know if you have questions, or submit
 
 ## What is the Request for Proposals period?
 
-**A Request for Proposals (RFP)** is a process intended to allow us (the Python Software Foundation)to collect proposals from potential contractors and select contractor(s) best suited to fulfill the specified work.
+**A Request for Proposals (RFP)** is a process intended to allow us (the Python Software Foundation) to collect proposals from potential contractors and select contractor(s) best suited to fulfill the specified work.
 
 After the RFP period closes we will evaluate the received proposals based on the [evaluation criteria](#evaluation-criteria), seek clarification from proposers as necessary, and select one or more contractors to complete the work specified in the [scope section](#scope).
 
@@ -102,7 +102,7 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 
 * Implementation of [PEP 458 once accepted](https://www.python.org/dev/peps/pep-0458/) to add integration of [The Update Framework](https://theupdateframework.github.io/) to PyPI
 * Development of either a stand alone service or code in the [Warehouse codebase](https://github.com/pypa/warehouse) to create, sign, serve, and handle caching concerns for TUF metadata
-* Development of necessary code in the [Warehouse codebase] to integrate TUF](https://theupdateframework.github.io/) metadata and signing
+* Development of necessary code in the [Warehouse codebase](https://github.com/pypa/warehouse) to integrate [TUF](https://theupdateframework.github.io/) metadata and signing
 
 [Relevant background and context](https://github.com/pypa/warehouse/issues/5247)
 
@@ -110,7 +110,7 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 
 * Development of systems for generation and signing of metadata compliant with [TUF](https://theupdateframework.github.io/)
 * Development of systems for serving signed metadata compliant with [TUF](https://theupdateframework.github.io/)
-* Development of systems for appropriately caching and invalidation of caches for metadata service
+* Development of systems for appropriately caching, and invalidating caches, for metadata service
 * Documentation for Administrators of PyPI for handling key material and interacting with the systems
 * Documentation for PyPI client libraries for sourcing and validating [TUF](https://theupdateframework.github.io/) metadata
 
@@ -127,11 +127,11 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 
 #### Specific tasks
 
-* Develop systems for running automated checks on new Projects, Release, and Release Files.
+* Develop systems for running automated checks on new Projects, Releases, and Release Files.
 * Develop a pluggable system for development and deployment of new checks
-* Implement database models to store check results relating to Projects, Releases, and Release Files from checks
+* Implement database models to store check results relating to Projects, Releases, and Release Files
 * Implement Administrator views for reviewing results
-* Documentation process for the development and submission of new checks
+* Documentation of the process for the development and submission of new checks
 
 **Note**: Surfacing malware detection results to PyPI publishers and users via the Web User Interface or any API is not in scope.
 
