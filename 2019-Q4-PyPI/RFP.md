@@ -141,7 +141,7 @@ Discussions leading to these milestones can be read in the [forum for our Reques
 
 Budgets are PSF's estimates, and caps are based on the funding commitment that we have received.
 
-Caps are provided to indicate that we understand that some features may require more funds than our estimated budget. Proposals may go over budget up to the cap for one feature, but fall under budget for another.
+Caps are provided to indicate that we understand that some features may require more funds than our estimated budget. Proposals may go over budget up to the cap for one feature, but fall under budget for another. We understand that there is the potential for significant deviation from our budgets; as long as proposals meet all criteria and fulfill requirements without going over the total budget cap that is not a problem.
 
 Estimates and caps in United States dollars.
 
