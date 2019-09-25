@@ -14,8 +14,8 @@ Please read this RFP and respond to let us know if you have questions, or submit
 |---|---|
 |August 28|Request for Information period opened.|
 |September 18|Request for Information period closed.|
-|September 24|Request for Proposal period opened.|
-|October 16|Request for Proposal period closes.|
+|September 25|Request for Proposal period opened.|
+|October 21|Request for Proposal period closes.|
 |October 29|Date proposals will have received a decision.|
 |November 30|Contracts for accepted proposals should be finalized.|
 |December 2|Contract work commences.|
