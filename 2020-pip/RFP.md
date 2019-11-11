@@ -124,7 +124,7 @@ March:
 April:
 - Improve test infrastructure and testing plan: 35 hours
 - Introduce further abstractions from prototype resolver and fix bugs found in alpha testing: 105 hours (probably 3 fulltime weeks at 35 hrs/week)
-- Ideally, attend PyCon North America (we are seeking funding for travel and lodging)
+- Ideally, attend [PyCon North America](https://us.pycon.org/2020/) (we are seeking funding for travel and lodging)
 
 May:
 - Improve test infrastructure: 35 hours
@@ -135,7 +135,7 @@ May:
 
 #### Summary and budget
 
-Development: $103,700, for 670 hours at $150 per hour, plus $1600 for onboarding travel and $1600 for PyCon travel
+Development: $103,700, for 670 hours at $150 per hour, plus $1600 for onboarding travel and $1600 for [PyCon](https://us.pycon.org/2020/) travel
 
 We seek an intermediate-to-senior Python developer for the following tasks, starting in early January 2020, till the end of December 2020.
 
@@ -147,7 +147,7 @@ We seek an intermediate-to-senior Python developer for the following tasks, star
 - investigate and fix bugs
 - write the raw material for documentation to help future maintainers onboard better
 
-Our funding also covers travel for onboarding in January, so this person can meet and work with a lead pip developer, and for travel to PyCon North America in April.
+Our funding also covers travel for onboarding in January, so this person can meet and work with a lead pip developer, and for travel to [PyCon North America in April](https://us.pycon.org/2020/).
 
 #### Timeline
 
@@ -163,7 +163,7 @@ January:
 February:
  - Review open issues and PRs, write developer documentation: 70 hrs (probably 2 fulltime weeks of 35 hrs each)
    - Review and triage many of our open issues and open pull requests on pip
-   - Documentation work: for example, improving the [architecture overview](https://pip.pypa.io/en/stable/development/architecture/) and the ["how to triage pip bugs" guide](https://github.com/pypa/pip/issues/6583)
+   - Documentation work: for example, improving the [architecture overview](https://pip.pypa.io/en/stable/development/architecture/) and the ["how to triage pip bugs" guide](https://pip.pypa.io/en/stable/development/issue-triage/)
 
 
 ##### March-May 2020 (Resolver, Phase II)
@@ -175,7 +175,7 @@ March:
 
 April:
  - Work on pip resolver; writing test cases and improving a testing plan, testing maintainers' refactoring and new features, and working with PSF on test infrastructure: 140 hours (4 fulltime weeks of 35 hrs each)
-   - (Part of this work to be done during PyCon North America, one week, lodging and travel covered)
+   - (Part of this work to be done during [PyCon North America](https://us.pycon.org/2020/), one week, lodging and travel covered)
 
 May:
  - Investigate and fix bugs found in beta testing, and improve and use testing plan: 40 hours (probably 4 weeks at 10 hours/week)
