@@ -6,7 +6,7 @@ The [Python Software Foundation](https://python.org/psf-landing) [Packaging Work
 
 This project aims to complete the design, implementation, and rollout of pip's next-generation dependency resolver. This will lower the barriers to installing Python software, empowering users to get a version of a package that works. It will also lower the barriers to​ distributing ​Python software, empowering developers to make their work available in an easily reusable form.
 
-We plan to begin the project in Quarter 1 of 2020. Because of the size of the project, funding has been allocated to secure *two contractors*, a senior developer and an intermediate developer, to work on development, testing and building test infrastructure, code review, bug triage, and assisting in the rollout of necessary features.
+We plan to begin the project in Quarter 1 of 2020. Because of the size of the project, funding has been allocated to secure *two contractors*, a _senior developer_ and an _intermediate developer_, to work on development, testing and building test infrastructure, code review, bug triage, and assisting in the rollout of necessary features.
 
 Please read this RFP and respond to let us know if you have questions, or submit a proposal if you are interested in performing the work for one of these contracts.
 
@@ -31,7 +31,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 ## How do I submit a proposal?
 
-Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org). Please begin your subject line with "RfP Q1-2020".
+Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [Sumana Harihareswara \<sumanah@pypi.org\>](mailto:sumanah@pypi.org), contract project manager working with the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
 
 Proposals must be submitted before the end of the day **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
 
@@ -44,7 +44,7 @@ A submission must, at a minimum, include the following elements:
 - Description of the team or person that will perform the work.
   - General overview and names of individuals.
   - Experience with [relevant technologies](#specific-technologies-used). This could be a copy of your CV/résumé.
-  - Freelance or firm? Incorporation? Subcontracting?
+  - Who would the PSF be contracting with? Are you an individual freelancer or a firm/corporation? If you're subcontracting, then to whom?
   - Free/open source software experience?
 
 - Agreement to [project management and reporting](#project-management-and-reporting) requirements.
@@ -67,9 +67,9 @@ In total, we expect your proposal to be 3-6 pages long, but feel free to go unde
  - Proposal is detailed enough to properly assess further criteria.
  - Formatting and submission requirements:
    - Portable Document Format (PDF)
-   - Emailed to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org) by **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
+   - Emailed to [sumanah@pypi.org](mailto:sumanah@pypi.org) by **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
 
-### Experience and competency
+### Experience and competence
 
 - Does the proposal demonstrate relevant experience necessary to complete the work?
 - Is there demonstrable experience with enough of the [relevant technologies](#specific-technologies-used) for each Role to support timelines?
@@ -221,7 +221,7 @@ Role 1 and Role 2 have different timelines; see those roles for details.
 
 The [pip codebase](https://github.com/pypa/pip) is licensed under the [MIT License](https://github.com/pypa/pip/blob/master/LICENSE.txt). All work submitted or dependencies added must be compliant with this license.
 
-The backend codebase is in Python. The pip documentation is built using reStructuredText and Sphinx.
+The codebase is in Python. The pip documentation is built using reStructuredText and Sphinx.
 
 Potential proposers should be comfortable with Python, and will have support from an additional contractor focused on user interface and user experience design to advise on command line experience improvements.
 
@@ -244,9 +244,9 @@ You can also see the [complete codebase](https://github.com/pypa/pip) on GitHub.
  - [tox](https://tox.readthedocs.io/en/latest/)
  - [Sphinx](http://www.sphinx-doc.org/)
 
-##### Backend and Testing Infrastructure
+##### Testing Infrastructure
 
-pip has an extensive continuous integration test suite. This test suite is built using:
+pip has [an extensive continuous integration test suite](https://pip.pypa.io/en/latest/development/ci/). This test suite is built using:
 
 - [Python](https://www.python.org/) 2.7 and 3.5+ on Linux, Mac OS, and Windows
 - [tox](https://tox.readthedocs.io/en/latest/)
@@ -254,7 +254,7 @@ pip has an extensive continuous integration test suite. This test suite is built
 - [pre-commit](https://pre-commit.com)
 - [pytest](http://doc.pytest.org/en/latest/)
 
-As well as many other associated Python testing, automation, and code quality tools.
+as well as many other associated Python testing, automation, and code quality tools.
 
 Components of the test suite are executed using multiple services including:
 
@@ -266,13 +266,13 @@ Components of the test suite are executed using multiple services including:
 
 ### Project Management and Reporting
 
-This project will be led and managed by the Python Software Foundation Director of Infrastructure and an external project manager.
+This project will be led and managed by the Python Software Foundation Director of Infrastructure (Ernest W. Durbin III) and an external project manager.
 
-Regular meetings (at most 30 minutes each, 4 times per month) will be held to coordinate efforts among the project managers, backend developers, and UX researcher/designer.
+Regular meetings (at most 30 minutes each, 4 times per month) will be held to coordinate efforts among the project managers, developers, and UX researcher/designer.
 
 Oral or textual status reporting during these meetings, as well as regular brief textual summaries of current status (such as a sentence or two, a few times per week, via Slack), will be required. Additionally, participation on the [public issue tracker](https://github.com/pypa/warehouse/issues) and submission of changes via [code review](https://github.com/pypa/warehouse/pulls) for the project will be required.
 
 ## Questions, Concerns, or Feedback
 
-Please contact [Ernest W. Durbin III \<ewdurbin@pyfound.org\>](mailto:ewdurbin@pyfound.org), Director of Infrastructure at the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
+Please contact [Sumana Harihareswara \<sumanah@pypi.org\>](mailto:sumanah@pypi.org), contract project manager working with the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
 
