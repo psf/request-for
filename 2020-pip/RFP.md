@@ -31,7 +31,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 ## How do I submit a proposal?
 
-Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org).
+Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [ewdurbin@pyfound.org](mailto:ewdurbin@pyfound.org). Please begin your subject line with "RfP Q1-2020".
 
 Proposals must be submitted before the end of the day **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
 
@@ -225,39 +225,44 @@ The backend codebase is in Python. The pip documentation is built using reStruct
 
 Potential proposers should be comfortable with Python, and will have support from an additional contractor focused on user interface and user experience design to advise on command line experience improvements.
 
-Familiarity and expertise with all technologies is not required. Strong Python skills and experience are a must, though.
+For Role 1 (Senior developer): Familiarity and expertise with the pip codebase, or with a Python packaging/distribution toolchain codebase, is strongly desired.
+
+For Role 2: Familiarity and expertise with all technologies is not required. Strong Python skills and experience are a must, though. Experience with some automated testing tools (not necessarily the ones we use) are strongly desired.
 
 #### Specific Technologies Used
+
+pip is a Python program that runs on client computers as part of [the Python packaging and distribution toolchain](packaging.python.org/). Understanding of and familiarity with how Python packaging works, how packages are built and installed, and so on, will be helpful.
+
+##### pip codebase
 
 For the best primer, see the [developer documentation](https://pip.pypa.io) for pip.
 
 You can also see the [complete codebase](https://github.com/pypa/pip) on GitHub.
 
-????? test infrastructure
+ - [Python](https://www.python.org/) 2.7 and 3.5+ on Linux, Mac OS, and Windows
+ - [pytest](http://pytest.readthedocs.io/)
+ - [tox](https://tox.readthedocs.io/en/latest/)
+ - [Sphinx](http://www.sphinx-doc.org/)
 
+##### Backend and Testing Infrastructure
 
-##### Backend
+pip has an extensive continuous integration test suite. This test suite is built using:
 
-While pip is a client-side program, there will be backend work involved in building test infrastructure.
+- [Python](https://www.python.org/) 2.7 and 3.5+ on Linux, Mac OS, and Windows
+- [tox](https://tox.readthedocs.io/en/latest/)
+- [nox](https://nox.thea.codes/en/stable/)
+- [pre-commit](https://pre-commit.com)
+- [pytest](http://doc.pytest.org/en/latest/)
 
-Travis CI
-Azure?
-We're open
+As well as many other associated Python testing, automation, and code quality tools.
 
-- [Python](https://www.python.org/) 3.6+
-- [PostgreSQL](https://www.postgresql.org) - [SQLAlchemy](https://docs.sqlalchemy.org/en/latest/) - [psycopg2](http://initd.org/psycopg/)
-- [Redis](https://redis.io)
+Components of the test suite are executed using multiple services including:
 
-##### Frontend
-
-Currently the only frontend work for pip is the pip documentation, which is built using reStructuredText and Sphinx. While building test infrastructure, we may want to add some frontend capability to that. The Python Package Index uses the following, so we have some team expertise in them and would prefer that those be used for any frontend work.
-
-Note: Our frontend is primarily static; these tools power the toolchain that creates our final assets.
-
-- [Node](https://nodejs.org/en/)
-- [Gulp](https://gulpjs.org)
-- [SASS](https://sass-lang.com)
-- [Stimulus](https://stimulusjs.org/)
+- [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azure-devops)
+- [GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-github-actions)
+- [AppVeyor](https://www.appveyor.com/docs/)
+- [TravisCI](https://docs.travis-ci.com)
+- [Read the Docs](https://docs.readthedocs.io/en/stable/index.html)
 
 ### Project Management and Reporting
 
@@ -269,5 +274,5 @@ Oral or textual status reporting during these meetings, as well as regular brief
 
 ## Questions, Concerns, or Feedback
 
-Please contact [Ernest W. Durbin III \<ewdurbin@pyfound.org\>](mailto:ewdurbin@pyfound.org), Director of Infrastructure at the Python Software Foundation.
+Please contact [Ernest W. Durbin III \<ewdurbin@pyfound.org\>](mailto:ewdurbin@pyfound.org), Director of Infrastructure at the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
 
