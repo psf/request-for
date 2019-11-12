@@ -4,17 +4,26 @@ The [Python Software Foundation](https://python.org/psf-landing) [Packaging Work
 
 [pip](https://pip.pypa.io) is the official [package installer](https://packaging.python.org/en/latest/current/) for Python. pip aims to make it easy for the millions of people who use Python to download and install Python libraries and applications (open source and closed source, source and binary, globally and within isolated virtual environments). pip is bundled with Python installations, and is available as a standalone download. It is bundled with the Python runtime itself, and is available as a standalone download which bootstraps and installs itself. To a first approximation, the entire ecosystem of millions of Python software projects depends on pip. Thus, pip is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape.
 
-This project aims to complete the design, implementation, and rollout of pip's next-generation dependency resolver. This will lower the barriers to installing Python software, empowering users to get a version of a package that works. It will also lower the barriers to​ distributing ​Python software, empowering developers to make their work available in an easily reusable form.
+This project aims to complete the design, implementation, and rollout of pip's next-generation dependency resolver. This will lower the barriers to installing Python software, empowering users to get a version of a package that works. It will also lower the barriers to _distributing_ Python software, empowering developers to make their work available in an easily reusable form. ([Here's a quick Twitter thread giving context on why this work is important.](
+https://twitter.com/di_codes/status/1193980331004743680))
 
 We plan to begin the project in Quarter 1 of 2020. Because of the size of the project, funding has been allocated to secure *two contractors*, a _senior developer_ and an _intermediate developer_, to work on development, testing and building test infrastructure, code review, bug triage, and assisting in the rollout of necessary features.
 
 Please read this RFP and respond to let us know if you have questions, or submit a proposal if you are interested in performing the work for one of these contracts.
 
+ - [Timeline](#timeline)
+ - [What is an RfP?](#what-is-the-request-for-proposals-period)
+ - [How do I submit a proposal?](#how-do-i-submit-a-proposal)
+ - [Evaluation criteria](#evaluation-criteria)
+ - [Scope of work and timeline](#scope) for [Role 1: Senior Developer](#role-1-senior-developer) and [Role 2: Intermediate Developer](#role-2-intermediate-developer)
+ - [Expectations and requirements](#expectations-and-requirements), including technologies to use and project management/reporting to expect
+ - [Questions, concerns, and feedback](#questions-concerns-or-feedback)
+
 ## Timeline
 
 |Date|Milestone|
 |---|---|
-|November 11|Request for Proposal period opens.|
+|November 11|Request for Proposal period opened.|
 |November 22|Request for Proposal period closes.|
 |November 27|Date proposals will have received a decision.|
 |December 31|Latest date for contracts for accepted proposals to be finalized.|
@@ -31,7 +40,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 ## How do I submit a proposal?
 
-Proposals should be submitted as [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) files via email to [Sumana Harihareswara \<sumanah@pypi.org\>](mailto:sumanah@pypi.org), contract project manager working with the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
+Submit your proposal as a [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) file via email to [Sumana Harihareswara \<sumanah@pypi.org\>](mailto:sumanah@pypi.org), contract project manager working with the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
 
 Proposals must be submitted before the end of the day **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
 
@@ -73,7 +82,7 @@ In total, we expect your proposal to be 3-6 pages long, but feel free to go unde
 
 - Does the proposal demonstrate relevant experience necessary to complete the work?
 - Is there demonstrable experience with enough of the [relevant technologies](#specific-technologies-used) for each Role to support timelines?
-- Do the examples of similarly complex projects and any references to past Free/Open Source Software contributions indicate competence?
+- Do the examples of similarly complex projects and any references to past free/open source software contributions indicate competence?
 
 ### Process and timeline
 
@@ -86,15 +95,17 @@ This Request for Proposals is seeking **Python developers** to implement, test, 
 
 Discussions leading to this scope can be read in:
 * [this GitHub issue about the rollout of the new resolver](https://github.com/pypa/pip/issues/6536)
-* [these issues related to the resolver](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip)
+* [this summary and list of issues related to the resolver](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip)
 
 ### Role 1: Senior developer
 
 #### Summary and budget
 
-Development: $116,375 for 665 hours, at $175 per hour
+Development: USD $116,375 for 665 hours, at USD $175 per hour
 
 We seek a senior Python developer for the following tasks, starting in mid-December 2019 or early January 2020, till the end of May 2020.
+
+This work can be done remotely from anywhere.
 
 - Onboarding and reviewing open issues and pull requests, to organize materials for project plan
 - Refactoring existing build logic per [overview in this blog post](https://pradyunsg.me/blog/2019/08/06/pip-update-2/)
@@ -135,9 +146,11 @@ May:
 
 #### Summary and budget
 
-Development: $103,700, for 670 hours at $150 per hour, plus $1600 for onboarding travel and $1600 for [PyCon](https://us.pycon.org/2020/) travel
+Development: USD $103,700, for 670 hours at USD $150 per hour, plus USD $1600 for onboarding travel and USD $1600 for [PyCon](https://us.pycon.org/2020/) travel
 
 We seek an intermediate-to-senior Python developer for the following tasks, starting in early January 2020, till the end of December 2020.
+
+This work can be done remotely from anywhere.
 
 - onboard
 - do bug triage and code review
@@ -157,7 +170,7 @@ This preparatory work will ensure that the developer (and user experience resear
 
 January:
  - Onboard and review open issues and pull requests: 70 hours (probably 2 fulltime weeks of 35 hrs each) (part of this work to be done during a 1-week onsite visit, lodging and travel covered)
-   - The current maintainer will teach and train the new developer via architectural overview, setup and configuration, pair programming, narrative feature tours, code reviews, meta-review of the developer's code reviews, and planning for the resolver work. We aim to use [this guide](https://modelviewculture.com/pieces/software-in-person) to make this time productive, and work to ensure a closer working relationship between the developers, a granular project plan for the next few months, raw material for future documentation, and an increase in development and maintainer skills for our developer.
+   - A current maintainer (specific person and location to be determined) will teach and train the new developer via architectural overview, setup and configuration, pair programming, narrative feature tours, code reviews, meta-review of the developer's code reviews, and planning for the resolver work. We aim to use [this guide](https://modelviewculture.com/pieces/software-in-person) to make this time productive, and work to ensure a closer working relationship between the developers, a granular project plan for the next few months, raw material for future documentation, and an increase in development and maintainer skills for our developer.
    - Review existing status reports on the resolver work, such as [maintainer Pradyun Gedam's November 2019 update](https://pradyunsg.me/blog/2019/11/06/oss-update-5/)
 
 February:
@@ -186,7 +199,6 @@ Once we have finished rolling out the resolver, the contractor will:
 - Keep up with the pip code and issue review queue for 10 hours per week, thus releasing a key bottleneck and enabling existing maintainers to make progress on key architectural features
 - Help new contributors develop into continuing contributors
 - Help existing contributors grow into co-maintainers
-
 
 June:
 - Review and respond to code contributions and new issues: 40 hours (probably 4 weeks at 10 hours/week)
@@ -227,7 +239,7 @@ Potential proposers should be comfortable with Python, and will have support fro
 
 For Role 1 (Senior developer): Familiarity and expertise with the pip codebase, or with a Python packaging/distribution toolchain codebase, is strongly desired.
 
-For Role 2: Familiarity and expertise with all technologies is not required. Strong Python skills and experience are a must, though. Experience with some automated testing tools (not necessarily the ones we use) are strongly desired.
+For Role 2 (Intermediate developer): Familiarity and expertise with all technologies is not required. Strong Python skills and experience are a must, though. Experience with some automated testing tools (not necessarily the ones we use) are strongly desired.
 
 #### Specific Technologies Used
 
@@ -270,7 +282,7 @@ This project will be led and managed by the Python Software Foundation Director 
 
 Regular meetings (at most 30 minutes each, 4 times per month) will be held to coordinate efforts among the project managers, developers, and UX researcher/designer.
 
-Oral or textual status reporting during these meetings, as well as regular brief textual summaries of current status (such as a sentence or two, a few times per week, via Slack), will be required. Additionally, participation on the [public issue tracker](https://github.com/pypa/warehouse/issues) and submission of changes via [code review](https://github.com/pypa/warehouse/pulls) for the project will be required.
+Oral or textual status reporting during these meetings, as well as regular brief textual summaries of current status (such as a sentence or two, a few times per week, via Slack or Zulip), will be required. Additionally, participation on the [public issue tracker](https://github.com/pypa/warehouse/issues) and submission of changes via [code review](https://github.com/pypa/warehouse/pulls) for the project will be required.
 
 ## Questions, Concerns, or Feedback
 
