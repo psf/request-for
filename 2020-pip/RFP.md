@@ -282,7 +282,7 @@ This project will be led and managed by the Python Software Foundation Director 
 
 Regular meetings (at most 30 minutes each, 4 times per month) will be held to coordinate efforts among the project managers, developers, and UX researcher/designer.
 
-Oral or textual status reporting during these meetings, as well as regular brief textual summaries of current status (such as a sentence or two, a few times per week, via Slack or Zulip), will be required. Additionally, participation on the [public issue tracker](https://github.com/pypa/warehouse/issues) and submission of changes via [code review](https://github.com/pypa/warehouse/pulls) for the project will be required.
+Oral or textual status reporting during these meetings, as well as regular brief textual summaries of current status (such as a sentence or two, a few times per week, via Slack or Zulip), will be required. Additionally, participation on the [public issue tracker](https://github.com/pypa/pip/issues) and submission of changes via [code review](https://github.com/pypa/pip/pulls) for the project will be required.
 
 ## Questions, Concerns, or Feedback
 
