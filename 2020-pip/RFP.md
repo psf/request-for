@@ -42,7 +42,7 @@ After the RFP period closes we will evaluate the received proposals based on the
 
 Submit your proposal as a [Portable Document Format (PDF)](https://en.wikipedia.org/wiki/PDF) file via email to [Sumana Harihareswara \<sumanah@pypi.org\>](mailto:sumanah@pypi.org), contract project manager working with the Python Software Foundation. Please begin your subject line with "RfP Q1-2020".
 
-Proposals must be submitted before the end of the day **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
+Proposals must be submitted before the end of the day **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-23T12:00:00Z).
 
 You can revise an already-submitted proposal by sending a follow-up email before the end of the day November 22nd. Please don't overuse this -- one or two revisions at most, please.
 
@@ -76,7 +76,7 @@ In total, we expect your proposal to be 3-6 pages long, but feel free to go unde
  - Proposal is detailed enough to properly assess further criteria.
  - Formatting and submission requirements:
    - Portable Document Format (PDF)
-   - Emailed to [sumanah@pypi.org](mailto:sumanah@pypi.org) by **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-22T12:00:00Z).
+   - Emailed to [sumanah@pypi.org](mailto:sumanah@pypi.org) by **November 22, 2019 [AoE](https://www.timeanddate.com/time/zones/aoe)** (2019-11-23T12:00:00Z).
 
 ### Experience and competence
 
