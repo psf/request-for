@@ -237,13 +237,13 @@ The codebase is in Python. The pip documentation is built using reStructuredText
 
 Potential proposers should be comfortable with Python, and will have support from an additional contractor focused on user interface and user experience design to advise on command line experience improvements.
 
-For Role 1 (Senior developer): Familiarity and expertise with the pip codebase, or with a Python packaging/distribution toolchain codebase, is strongly desired.
+For Role 1 (Senior developer): Familiarity and expertise with the pip codebase, or with a Python packaging/distribution toolchain codebase, is required. Strong Python skills, and experience contributing to Python packaging/distribution tools, are required.
 
-For Role 2 (Intermediate developer): Familiarity and expertise with all technologies is not required. Strong Python skills and experience are a must, though. Experience with some automated testing tools (not necessarily the ones we use) are strongly desired.
+For Role 2 (Intermediate developer): Strong Python skills and experience are a must. Some experience working on Python packaging/distribution tools is required. Experience with some automated testing tools (not necessarily the ones we use) are strongly desired. Familiarity and expertise with all testing infrastructure technologies mentioned below is not required.
 
 #### Specific Technologies Used
 
-pip is a Python program that runs on client computers as part of [the Python packaging and distribution toolchain](packaging.python.org/). Understanding of and familiarity with how Python packaging works, how packages are built and installed, and so on, will be helpful.
+pip is a Python program that runs on client computers as part of [the Python packaging and distribution toolchain](https://packaging.python.org/). Understanding of and familiarity with how Python packaging works, how packages are built and installed, and so on, will be helpful.
 
 ##### pip codebase
 
