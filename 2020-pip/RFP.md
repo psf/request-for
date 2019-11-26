@@ -1,5 +1,7 @@
 # pip 2020 Request for Proposals
 
+**This RfP is closed; we are currently reviewing submissions.**
+
 The [Python Software Foundation](https://python.org/psf-landing) [Packaging Working Group](https://www.python.org/psf/committees/#packaging-work-group) is receiving funding (sources embargoed till late 2020) to work on the design, implementation, and rollout of pip's next-generation dependency resolver.
 
 [pip](https://pip.pypa.io) is the official [package installer](https://packaging.python.org/en/latest/current/) for Python. pip aims to make it easy for the millions of people who use Python to download and install Python libraries and applications (open source and closed source, source and binary, globally and within isolated virtual environments). pip is bundled with Python installations, and is available as a standalone download. It is bundled with the Python runtime itself, and is available as a standalone download which bootstraps and installs itself. To a first approximation, the entire ecosystem of millions of Python software projects depends on pip. Thus, pip is a foundational component of the [Python](https://python.org) ecosystem and broader computer software and technology landscape.
@@ -24,8 +26,8 @@ Please read this RFP and respond to let us know if you have questions, or submit
 |Date|Milestone|
 |---|---|
 |November 11|Request for Proposal period opened.|
-|November 22|Request for Proposal period closes.|
-|November 27|Date proposals will have received a decision.|
+|November 22|Request for Proposal period closed.|
+|November 27|Date proposals will have received a preliminary decision. **Note: due to the large number of applicants, we will not be able to provide a final decision by November 27th, but will work to provide a preliminary status by November 27th, and final decisions to all applicants by December 4th.**|
 |December 31|Latest date for contracts for accepted proposals to be finalized.|
 |January 2|Latest date for contract work to commence.|
 
