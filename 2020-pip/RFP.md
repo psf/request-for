@@ -1,6 +1,6 @@
 # pip 2020 Request for Proposals
 
-**This RfP is closed; we are currently reviewing submissions.**
+**This RfP is closed; we have now reviewed and responded to submissions.**
 
 The [Python Software Foundation](https://python.org/psf-landing) [Packaging Working Group](https://www.python.org/psf/committees/#packaging-work-group) is receiving funding (sources embargoed till late 2020) to work on the design, implementation, and rollout of pip's next-generation dependency resolver.
 
@@ -27,7 +27,7 @@ Please read this RFP and respond to let us know if you have questions, or submit
 |---|---|
 |November 11|Request for Proposal period opened.|
 |November 22|Request for Proposal period closed.|
-|November 27|Date proposals will have received a preliminary decision. **Note: due to the large number of applicants, we will not be able to provide a final decision by November 27th, but will work to provide a preliminary status by November 27th, and final decisions to all applicants by December 4th.**|
+|November 27|Date proposals received a preliminary decision. **Note: due to the large number of applicants, we were not be able to provide a final decision by November 27th as originally planned, but provided a preliminary status by November 27th, and final decisions to all applicants by December 4th.**|
 |December 31|Latest date for contracts for accepted proposals to be finalized.|
 |January 2|Latest date for contract work to commence.|
 
@@ -280,7 +280,7 @@ Components of the test suite are executed using multiple services including:
 
 ### Project Management and Reporting
 
-This project will be led and managed by the Python Software Foundation Director of Infrastructure (Ernest W. Durbin III) and an external project manager.
+This project will be led and managed by the Python Software Foundation Director of Infrastructure (Ernest W. Durbin III) and by Sumana Harihareswara, an external project manager.
 
 Regular meetings (at most 30 minutes each, 4 times per month) will be held to coordinate efforts among the project managers, developers, and UX researcher/designer.
 
