@@ -20,6 +20,7 @@ Please read this RFP to know how to submit your proposal or to get in touch with
 |April 1|Start of contract work|
 
 ## What is the Request for Proposals period?
+
 **A Request for Proposal (RFP)** is a process intended to allow us (the Python Software Foundation) to collect proposals from potential contractors and select contractor(s) best suited to fulfill the specified work.
 After the RFP period closes we will evaluate the received proposals based on the [evaluation criteria](#evaluation-criteria), seek clarification from proposers as necessary, and select one or more contractors to complete the work specified in the [scope section](#scope).
 
