@@ -37,7 +37,7 @@ Proposals must be submitted before the end of the day **March 4, 2022 [AoE](http
 A submission must, at a minimum, include the following elements:
 
 - Description of the team or person that will perform the work.
-  - What Role(s) are you proposing for? Please propose for Role 1, Role 2, or both.
+  - What Role(s) are you proposing for? Please propose for Frontend Developer, Backend Developer, or both.
   - General overview and names of individuals.
   - Experience with [relevant technologies](#specific-technologies-used). This could be a copy of your CV/résumé.
   - Who would the PSF be contracting with? Are you an individual freelancer or a firm/corporation? If you're subcontracting, then to whom?
