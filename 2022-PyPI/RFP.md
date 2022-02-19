@@ -140,7 +140,7 @@ You can also see the [complete codebase](https://github.com/pypa/warehouse) on G
 Note: Our frontend is primarily static; these tools power the toolchain that creates our final assets.
 
 * [Node](https://nodejs.org/en/)
-* [Gulp](https://gulpjs.org)
+* [Gulp](https://gulpjs.com/)
 * [SASS](https://sass-lang.com)
 * [Stimulus](https://stimulusjs.org/)
 
